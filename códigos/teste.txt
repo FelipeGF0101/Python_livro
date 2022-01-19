@@ -1,0 +1,3 @@
+Aprendendo a criar arquivo de texto com python
+Estudar python é bem legal
+Mas esse livro é um pouco confuso
